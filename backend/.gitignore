@@ -7,3 +7,4 @@ tiles_256_256_27_test.rar
 *.tif
 *.tiff
 saved_polygons/*tif
+*.ipynb
