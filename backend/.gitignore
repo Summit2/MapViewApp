@@ -4,7 +4,6 @@ tiles_256_256_27_test
 sentinel2_test_images
 saved_model
 tiles_256_256_27_test.rar
-*.tif
-*.tiff
+
 saved_polygons/*tif
 *.ipynb
