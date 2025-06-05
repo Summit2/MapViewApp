@@ -49,14 +49,3 @@ yarn storybook
 ```
 
 ---
-
-## 🖼️ Интерфейс приложения
-
-### 🔐 Страница авторизации
-![Authorization](/src/assets/demonstration/auth.jpg)
-
-### 🌍 Просмотр всех областей
-![All areas](/src/assets/demonstration/all.jpg)
-
-### 🔍 Детальный просмотр области
-![One area](/src/assets/demonstration/one_area.jpg)
